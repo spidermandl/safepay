@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="safepay-pay-web-sample-shop:war">
+    <output-path>$PROJECT_DIR$/safepay-pay-web-sample-shop/target</output-path>
+    <root id="archive" name="safepay-pay-web-sample-shop.war">
+      <element id="artifact" artifact-name="safepay-pay-web-sample-shop:war exploded" />
+    </root>
+  </artifact>
+</component>

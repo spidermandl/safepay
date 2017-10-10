@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay.iml" filepath="$PROJECT_DIR$/safepay-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-app-notify/safepay-pay-app-notify.iml" filepath="$PROJECT_DIR$/safepay-pay-app-notify/safepay-pay-app-notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-app-order-polling/safepay-pay-app-order-polling.iml" filepath="$PROJECT_DIR$/safepay-pay-app-order-polling/safepay-pay-app-order-polling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-app-reconciliation/safepay-pay-app-reconciliation.iml" filepath="$PROJECT_DIR$/safepay-pay-app-reconciliation/safepay-pay-app-reconciliation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-app-settlement/safepay-pay-app-settlement.iml" filepath="$PROJECT_DIR$/safepay-pay-app-settlement/safepay-pay-app-settlement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-common-core/safepay-pay-common-core.iml" filepath="$PROJECT_DIR$/safepay-pay-common-core/safepay-pay-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-service/safepay-pay-service.iml" filepath="$PROJECT_DIR$/safepay-pay-service/safepay-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-web-boss/safepay-pay-web-boss.iml" filepath="$PROJECT_DIR$/safepay-pay-web-boss/safepay-pay-web-boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-web-gateway/safepay-pay-web-gateway.iml" filepath="$PROJECT_DIR$/safepay-pay-web-gateway/safepay-pay-web-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-web-merchant/safepay-pay-web-merchant.iml" filepath="$PROJECT_DIR$/safepay-pay-web-merchant/safepay-pay-web-merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safepay-pay-web-sample-shop/safepay-pay-web-sample-shop.iml" filepath="$PROJECT_DIR$/safepay-pay-web-sample-shop/safepay-pay-web-sample-shop.iml" />
+    </modules>
+  </component>
+</project>

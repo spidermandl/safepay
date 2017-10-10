@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../roncoo-pay/roncoo-pay-web-sample-shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-app-notify" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-app-order-polling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-app-reconciliation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-app-settlement" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-web-boss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-web-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-web-merchant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/safepay-pay-web-sample-shop" charset="UTF-8" />
+  </component>
+</project>
