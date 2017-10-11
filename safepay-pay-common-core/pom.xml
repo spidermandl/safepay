@@ -211,15 +211,17 @@
             <artifactId>jdom</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>alipay</groupId>
-            <artifactId>alipay-sdk-java20151021120052</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>alipay</groupId>-->
+            <!--<artifactId>alipay-sdk-java20151021120052</artifactId>-->
+            <!--<systemPath>${project.basedir}/src/main/lib/alipay-sdk-java20151021120052.jar</systemPath>-->
+        <!--</dependency>-->
 
-        <dependency>
-            <groupId>alipay</groupId>
-            <artifactId>alipay-trade-sdk</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>alipay</groupId>-->
+            <!--<artifactId>alipay-trade-sdk</artifactId>-->
+            <!--<systemPath>${project.basedir}/src/main/lib/alipay-trade-sdk.jar</systemPath>-->
+        <!--</dependency>-->
 
         <!-- http://mvnrepository.com/artifact/jaxen/jaxen -->
 
